@@ -1,6 +1,5 @@
 """
 Acronym Tools
-
 """
 import oa
 
